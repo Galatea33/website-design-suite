@@ -1,0 +1,5 @@
+interface:
+  display_name: "Website Design Suite - Part 2: Recreation"
+  short_description: "Recreate authorized references faithfully"
+  default_prompt: "Use $website-design-suite-part-2-recreation to reconstruct the supplied website references, preserve authoritative details, verify fidelity, and hand the completed draft to the suite critic when applicable."
+
