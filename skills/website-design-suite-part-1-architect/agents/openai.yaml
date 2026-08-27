@@ -1,0 +1,5 @@
+interface:
+  display_name: "Website Design Suite - Part 1: Architect (Start Here)"
+  short_description: "Start here for guided website design"
+  default_prompt: "Use $website-design-suite-part-1-architect to lead the complete website-design workflow: ask only the necessary questions, coordinate reference recreation when applicable, and critique the first draft before recommending next steps."
+
