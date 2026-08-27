@@ -1,0 +1,5 @@
+interface:
+  display_name: "Website Design Suite - Part 3: UX Critic"
+  short_description: "Review a website and prioritize improvements"
+  default_prompt: "Use $website-design-suite-part-3-ux-critic to review the current website or suite draft, preserve what works, and prioritize the smallest high-impact improvements."
+
